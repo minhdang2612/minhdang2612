@@ -1,3 +1,3 @@
 # WELCOME
-Hi! Welcome to my portfolio.
-Hello, can you see this!!!
+Hi, welcome to my portfolio!
+Here you can view some of my projects.
